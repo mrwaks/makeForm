@@ -1,0 +1,19 @@
+{
+  "name": "project-yeland-rudy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "built": "npm install"
+  },
+  "keywords": [
+    "makeform",
+    "form"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

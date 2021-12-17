@@ -1,0 +1,13 @@
+STEP:
+
+1. L'utilisateur tape une commande dans le terminal.
+2. Le programme propose à l'utilisateur une liste de choix de commande.
+3. Exemple l'utilisateur choisi de creer un formulaire.
+4. Le programme propose la création de champs (input):
+
+    - Le nom du champ.
+    - Le type du champs (soit l'utilisateur le connais et le tape, soit le programme lui propose des types).
+
+5. Voulez vous ajouter un autre champs ? Si oui retour à l'étape 4, sinon on continue.
+6. Le programme génére le code du formulaire.
+7. Le programme propose à l'utilisateur soit de recevoir le formulaire dans une page html, soit la possibilité de l'implémenter dans une de ses pages.
